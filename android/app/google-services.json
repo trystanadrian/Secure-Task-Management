@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844313222190",
+    "project_id": "task-management-46154",
+    "storage_bucket": "task-management-46154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844313222190:android:095b3f5c2f7f0f528613bf",
+        "android_client_info": {
+          "package_name": "com.dbestech.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxxKefZYB1Uunypbcwff8yUk8QZSPC7i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
